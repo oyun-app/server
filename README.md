@@ -1,1 +1,1 @@
-# server
+# Oyun server app
